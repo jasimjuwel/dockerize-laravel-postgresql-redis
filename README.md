@@ -1,6 +1,6 @@
 ## About Project
 
-Dockerize PHP Laravel Postgresql Redis 
+Dockerize PHP Apache Laravel Postgresql Redis 
 
 ## Technologies
 - PHP 7.3
